@@ -1,0 +1,33 @@
+/* mobile view */
+@media (min-width: 668px) {
+    p{
+        font-size: 26px;
+        background-color: rgb(201, 23, 23);
+
+    }
+    img{
+        width: 80%;
+     height: auto;
+    }
+}
+/* tablet view */
+@media (min-width: 768px) {
+    p{
+        font-size: 56px;
+        background-color: rgb(48, 99, 236);
+    } img{
+        width: 80%;
+     
+     height: auto;
+    }
+}
+/* big screen*/
+@media (min-width: 1200px) {
+    p{
+        font-size: 66px;
+        background-color: rgb(215, 18, 241);
+    } img{
+        width: 80%;
+
+    }
+}
