@@ -1,0 +1,22 @@
+@import url("main2.css");
+@font-face {
+    font-family:Poppins:ital,wght@1,300&display=swap ;
+    src: url(https://fonts.googleapis.com/css2?);
+}
+h1{
+     color: blue !important;
+     
+}
+p{
+    
+/* font-family: 'Roboto', sans-serif;*/
+font-family: 'Rubik Marker Hatch', cursive
+}
+h1{
+    color: rgb(19, 131, 8) ;
+}
+
+.imgh img :hover{
+    transform: scale(1.4);
+    visibility: hidden;
+}
