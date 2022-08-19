@@ -1,0 +1,27 @@
+.datatypes
+{
+    color: blueviolet;
+    background-color: rgb(228, 218, 240);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: xx-large;
+    border: 1px solid blueviolet;
+    padding-bottom: 13px;
+}
+.expressions
+{
+    color: rgb(0, 163, 68);
+    background-color: rgb(205, 248, 216);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: xx-large;
+    border: 2px solid rgb(0, 163, 68);
+}
+.conditions{
+    color: rgb(165, 165, 6);
+    background-color: rgb(240, 248, 205);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: xx-large;
+    border: 2px solid rgb(185, 185, 5);
+}
+ol{
+    padding-left: 400px;
+}
